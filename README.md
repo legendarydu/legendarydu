@@ -1,10 +1,7 @@
 
-### <div align="center">Hi
-I'm Full-stack developer! </div>  
+### <div align="center">Hi, I'm Full-stack developer!
+ </div>  
   
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
 <br/>  
 
 
