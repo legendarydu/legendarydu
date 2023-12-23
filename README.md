@@ -11,8 +11,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://github.com/legendarydu/legendarydu/assets/147722754/723667c9-d49e-4ed7-b7e8-2bad90397325" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
-  <img src="https://github.com/legendarydu/legendarydu/assets/147722754/5f16b932-71fb-4de4-b169-50e0538186ca" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
-  <img src="https://github.com/legendarydu/legendarydu/assets/147722754/980d534d-4be7-4711-a5e4-5c0daeec906f" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
+  
   
 
   
